@@ -10,4 +10,11 @@ public:
 	{
 
 	}
+
+	string getName()const {
+		return name;
+	}
+	string getEmail()const {
+		return email;
+	}
 };
